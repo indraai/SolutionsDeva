@@ -5,17 +5,17 @@ p:Copyright (c)2023 Quinn Michaels
 p:This is the main help file for Solutions Deva. Providing support to deva.world.
 
 id: 4736768254610
-key: SolutionsDeva
+key: solutions
 name: Solutions Deva
 describe: Providing support to deva.world.
 
 ### Methods
 
-cmd:#SolutionsDeva uid
+cmd:#solutions uid
 p:Generate a unique id from the Solutions Deva.
 
-cmd:#SolutionsDeva status
+cmd:#solutions status
 p:Return the status for the Solutions Deva.
 
-cmd:#SolutionsDeva help
+cmd:#solutions help
 p:Get help using the Solutions Deva
