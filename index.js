@@ -47,7 +47,7 @@ const SOLUTIONS = new Deva({
     sol_question(packet) {
       const agent = this.agent();
       const solutions = this.solutions();
-      solutions.personal.answers.push(packet);
+      solutions.personal.questions.push(packet);
     },
     sol_answer(packet) {
       const agent = this.agent();
